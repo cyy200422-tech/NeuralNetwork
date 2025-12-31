@@ -18,6 +18,7 @@ LoadNetworkStructure() 为读取训练模型
 feedforward 为识别
 #### 关于图片：
 <img width="1134" height="674" alt="image" src="https://github.com/user-attachments/assets/19d48d91-8301-43bf-b659-a4ae8861b871" />
+
 ### 编译运行
 1. 新建 build 文件夹，并进入
 2. cmake ..
